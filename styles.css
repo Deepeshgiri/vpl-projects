@@ -3,11 +3,17 @@ body{
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+    text-align: center;
     
 }
 
 .logo{
     height: 40px;
     padding-right: 2%;
+}
+
+.building{
+    border-radius:10%;
+   width: 100%;
+    
 }
